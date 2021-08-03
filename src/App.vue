@@ -9,7 +9,7 @@
         <p class="text-purple-50 text-lg">
           <span class="text-white">Donderdag 16 september</span> is het de Dag van de Leidster 2021. Help jij mee om van deze dag een een bijzondere gebeurtenis te maken?
         </p>
-        <p class="text-purple-100 mt-4">Via onderstaande knop kan je een financiele bijdrage doen. De oudercommissie van Kindergarden zorgt dat het met hulp van jouw bijdrage een mooi cadeau wordt gekocht voor alle medewerkers van Kindergarden Baarn.</p>
+        <p class="text-purple-100 mt-4">Via onderstaande knop kan je een financiele bijdrage doen. De oudercommissie van Kindergarden Baarn zorgt dat het met hulp van jouw bijdrage een mooi cadeau wordt gekocht voor alle medewerkers.</p>
         <a href="https://tikkie.me/pay/n53s1mvlkh1i12ml8b1p" target="_blank" class="flex justify-between items-center mt-10 text-white bg-pink-500 hover:bg-pink-600 transition-color duration-200 rounded-lg shadow-lg  p-2 uppercase font-bold leading-wide text-center text-xl border-b-4 border-pink-700">
           <svg viewBox="-71.27719571541195 -2.754207803167244 2641.836071858428 2564.2093798273245" xmlns="http://www.w3.org/2000/svg" class="h-12 w-12">
             <g>
