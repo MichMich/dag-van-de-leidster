@@ -5,7 +5,7 @@
       <div class="absolute hidden w-full h-full transform bg-pink-300 -rotate-6 rounded-xl sm:block" />
       <div class="relative text-white bg-purple-600 sm:max-w-xl sm:rounded-xl sm:shadow-xl">
         <div class="p-8 pb-8 sm:p-16">
-          <h2 class="text-xl font-normal text-purple-300 sm:text-2xl">Donderdag 16 september 2021</h2>
+          <h2 class="text-xl font-semibold text-purple-200 sm:text-2xl">Kindergarden Baarn</h2>
           <h1 class="mb-8 text-3xl font-extrabold sm:text-4xl">Dag van de Leidster</h1>
           <p class="text-lg text-purple-50">
             <span class="text-white">Donderdag 16 september</span> is het de Dag van de Leidster 2021. Help jij mee om van deze dag een een bijzondere gebeurtenis te maken?
@@ -28,7 +28,7 @@
             <h3 class="mb-2 text-lg font-bold text-purple-100">Wat gebeurt er met de bijdrage?</h3>
             <p>Het geld wordt ingezameld middels een Tikkie op rekening van Michael Teeuw, voorzitter van de oudercommissie Kindergarden Baarn. De oudercommissie zorgt voor de aanschaf van een passend cadeau. Eventueel resterend opgebracht geld wordt ter beschikking gesteld aan de medewerkers van de vestiging om gezamelijk iets leuks mee te doen.</p>
             <h3 class="mt-4 mb-2 text-lg font-bold text-purple-100">Heb je een vraag?</h3>
-            <p>Stuur gerust een email naar <a href="mailto:ockgbaarn@gmail.com" class="font-bold text-white hover:underline">ockgbaarn@gmail.com</a>. <br/>We beantwoorden je vragen graag!</p>
+            <p>Stuur gerust een email naar <a href="mailto:ockgbaarn@gmail.com" class="font-bold text-white hover:underline">ockgbaarn@gmail.com</a>. <br class="hidden sm:block">We beantwoorden je vragen graag!</p>
           </div>
       </div>
     </div>
