@@ -21,7 +21,7 @@
             Doe een bijdrage
           </a>
           <div class="relative p-4 mt-2 text-sm text-center text-purple-100 bg-purple-700 rounded-lg">
-            Liever contant? Er staat een donatiebox naast <br>het koffieapparaat in de vestiging!
+            Liever contant? Er staat een donatiebox naast <br class="hidden sm:block">het koffieapparaat in de vestiging!
           </div>
         </div>
           <div class="p-8 pt-8 text-sm text-purple-200 bg-purple-800 sm:p-16 sm:rounded-b-xl">
