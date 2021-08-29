@@ -11,7 +11,7 @@
             <span class="text-white">Donderdag 16 september</span> is het de Dag van de Leidster 2021. Help jij mee om van deze dag een een bijzondere gebeurtenis te maken?
           </p>
           <p class="mt-4 text-purple-100">Via onderstaande knop kan je een financiele bijdrage doen. De oudercommissie van Kindergarden Baarn zorgt dat het met hulp van jouw bijdrage een mooi cadeau wordt gekocht voor alle medewerkers.</p>
-          <a href="https://tikkie.me/pay/8ef2cbjkd3tojr5ng1e9" target="_blank" class="flex items-center justify-center p-2 mt-10 text-xl font-bold text-center text-white uppercase duration-200 bg-pink-500 border-b-4 border-pink-700 rounded-lg shadow-lg hover:bg-pink-600 transition-color leading-wide">
+          <a href="https://tikkie.me/pay/q8r5bso1kgai3trsi37a" target="_blank" class="flex items-center justify-center p-2 mt-10 text-xl font-bold text-center text-white uppercase duration-200 bg-pink-500 border-b-4 border-pink-700 rounded-lg shadow-lg hover:bg-pink-600 transition-color leading-wide">
             <svg viewBox="-71.27719571541195 -2.754207803167244 2641.836071858428 2564.2093798273245" xmlns="http://www.w3.org/2000/svg" class="w-12 h-12 mr-2">
               <g>
                 <path fill="#53beb8" stroke="#ffffff" stroke-width="100" d="M1264.45 367.33c-486.52 0-879.52 394.42-879.52 881 0 163.29 44.15 316.06 123.4 447.21v26.14c0 298.32-219.18 394.94-219.18 394.94s309.8 3.23 473.81-142h.12c1.49 0 3.36-2.2 5.49-2.2s3.94 2.13 5.42 2.13h.2c140.18 105.72 308.77 151.87 490.26 151.87 486.59 0 881-393.06 881-879.59s-394.45-879.5-881.06-879.5" />
